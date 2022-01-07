@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Anna Pfohl
 subtitle: Software Engineer in Machine Learning
 ---
 
