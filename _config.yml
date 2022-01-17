@@ -57,7 +57,7 @@ favicon: "/assets/img/favicon.ico"
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
